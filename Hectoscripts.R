@@ -9,8 +9,8 @@ source('pca_plotting_v2.R')
 library(plotrix)
 
 # Import RNAseq counts
-df_uA <- read.table('matrix_uA',header=T) # A matrix of uniquely mapped reads (based on custom script for processing bam files)
-df_mA <- read.table('matrix_mA',header=T) # A matrix of multi-mapped reads (based on custom script for processing bam files)
+df_uA <- read.table('matrix_uA',header=T) # A matrix of uniquely mapped reads (based on custom script for processing bam files processBAM.py)
+df_mA <- read.table('matrix_mA',header=T) # A matrix of multi-mapped reads (based on custom script for processing bam files processBAM.py)
 df_aA <- df_uA + df_mA
 
 # Identify data for ERCC spike-ins and non-coding RNAs
