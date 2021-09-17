@@ -1,4 +1,7 @@
 Code for "A small noncoding RNA links ribosome recovery and translation control to cellular dedifferentiation during salamander limb regeneration". Elewa et al., submitted.
 
+## Main files
+Hectoscripts.R performs the analysis and generates figures based on count matrices that are produced by processBAM.py.
+
 # ABSTRACT
 Building a blastema from the stump is a key step of salamander limb regeneration. Stump-derived cells temporarily suspend their identity as they contribute to the blastema by a process generally referred to as dedifferentiation. Here we provide evidence for a mechanism that involves an active inhibition of protein biosynthesis during blastema formation and growth. Relieving this inhibition results in higher number of cycling cells and enhances the pace of limb regeneration. By small RNA profiling and fate mapping of skeletal muscle progeny as a cellular model for dedifferentiation, we find that downregulation of miR-10b-5p is critical for rebooting the translation machinery. miR-10b-5p targets ribosomal mRNAs and its artificial upregulation causes decreased blastema cell proliferation, reduction in transcripts encoding ribosomal subunits, diminished nascent protein synthesis in muscle-derived limb progenitor cells, and retardation of limb regeneration. Taken together, our data identify a link between miRNA regulation, ribosome biogenesis and protein biosynthesis during newt limb regeneration.
