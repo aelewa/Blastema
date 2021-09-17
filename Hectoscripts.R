@@ -1,4 +1,4 @@
-### The novelity of this script (coded in R) is that it identifies a population of salamander cells that are traditionally discarded from analysis (as low quality cells).
+### The novelity of this script is that it identifies a population of salamander cells that are traditionally discarded from analysis (as low quality cells).
 ### Here, "Hectoscript cells" are defined by a low number of detected genes (within the hundreds/hecto range).
 ### I show that Hectoscript cells are characterized by transposable elemements and a set of genes including MKNK2, a known modulator of translation.
 ### In Elewa et al. (submitted), we show that this population is pertinent to limb regeneration by combining RNA sequencing, miRNA manipulation, 
