@@ -2,7 +2,7 @@
 ### Here, "Hectoscript cells" are defined by a low number of detected genes (within the hundreds/hecto range).
 ### I show that Hectoscript cells are characterized by transposable elemements and a set of genes including MKNK2, a known modulator of translation.
 ### In Elewa et al. (submitted), we show that this population is pertinent to limb regeneration by combining RNA sequencing, miRNA manipulation, 
-### cell tracking, pharmacological manipulations, and visualization of nascent protein.
+### cell tracking, pharmacological manipulations, and visualization of nascent protein synthesis.
 
 source('functions.R')
 source('pca_plotting_v2.R')
